@@ -5,4 +5,4 @@ It is a livid demonstration of how machine learning can be used for surveillance
 ### Parts
 1. mask_image.py - Detects mask wearing from an image
 2. mask_video_stream.py - Detects mask wearing from a video stream
-3. train_mask_detector.py - Trains the model on the sample dataset
+3. train_model.py - Trains the model on the sample dataset
